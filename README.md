@@ -1,39 +1,36 @@
-# 🎨 Anime Prompt Engineering Vault
+# AI Prompt Engineering for Anime
 
-**Your personal GitHub home for professional anime-style prompt engineering.**
+**Your Personal Vault for High-Quality Anime Prompts, Character Bibles & Stories**
 
-This repo stores your optimized image prompts, character bibles, story templates, and the **Six-Layer Prompt Framework** for consistent, high-quality results in Midjourney (Niji), Stable Diffusion, Grok Imagine, and other AI tools.
+This repo is your central hub for **AI Prompt Engineering for Anime** — crafted by H𝕏NESTER with Grok. Store, version-control, and iterate on your Six-Layer Framework prompts, templates, character sheets, and story scenes.
 
-## 📁 Repository Structure
+## 📁 Repo Structure
+- `/templates/` — Ready-to-copy Six-Layer prompts
+- `/characters/` — Character bibles & consistency anchors
+- `/examples/` — Shonen, Ghibli, Seinen, Chibi, 90s styles
+- `/stories/` — Anime script templates & tropes
+- `README.md` — This guide (you're reading it!)
 
-- `/characters/` — Full character sheets and bibles (hair, eyes, outfit locked for consistency)
-- `/prompts/` — Ready-to-copy image prompts categorized by style
-- `/templates/` — Markdown Six-Layer templates + variations
-- `/stories/` — Anime narrative prompts, script snippets, and tropes
-- `/references/` — Style anchors, artist references, and negative prompt lists
+## 🚀 Quick Start
+1. Clone: `git clone https://github.com/AyeThoHaney/anime-prompt-vault.git`
+2. Copy any Markdown file into your AI tool (Midjourney Niji, Grok Imagine, etc.)
+3. Generate epic anime art & stories!
 
-## 🚀 The Six-Layer Framework (Your Go-To Template)
+## The Six-Layer Prompt Framework
+**Layer 1: Character** — Hair, eyes, outfit, pose, expression  
+**Layer 2: Setting** — Location + props  
+**Layer 3: Art Style** — Studio Ghibli / Ufotable / etc.  
+**Layer 4: Lighting** — Golden hour, neon, dramatic  
+**Layer 5: Quality** — masterpiece, best quality, ultra-detailed  
+**Layer 6: Negatives** — No text, no blurry, bad anatomy
 
-Use this proven structure for every prompt:
-
-**Layer 1: Character Description**  
-**Layer 2: Setting**  
-**Layer 3: Art Style Anchor**  
-**Layer 4: Lighting & Atmosphere**  
-**Layer 5: Quality Markers** (`masterpiece, best quality, ultra-detailed`)
-**Layer 6: Negatives** (`blurry, lowres, bad anatomy...`)
-
-### Ready-to-Use Template
-```markdown
-[Character], [pose/action], [setting], [style anchor], [lighting], masterpiece, best quality, ultra-detailed. No text, no watermark.
+**Ready Template:**
+```
+[Character], [pose/action], [setting], [style anchor], [lighting], [quality tags]. No text, no watermark.
 ```
 
-## Next Steps
+**Full Guide & Examples** → See files below or expand this README.
 
-1. Clone: `git clone https://github.com/AyeThoHaney/anime-prompt-vault.git`
-2. Start adding your files to the folders
-3. Create more optimized prompts using the templates
+⭐ Star this repo & keep building your anime universe!
 
-**Made for H𝕏NESTER / AyeThoHaney** — Let's generate some incredible anime art! ✨
-
-*Star this repo and keep building your prompt collection.*
+Made with ❤️ for H𝕏NESTER's anime creations — powered by Grok & GitHub.
